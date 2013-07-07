@@ -1,0 +1,9 @@
+<div id="myCarousel" class="carousel slide">
+    <div class="carousel-inner">
+        <div ng-repeat="i in images" ng-class="itemClass($index)">
+            <img ng-src="/images/{{i}}" alt="">
+        </div>
+    </div>
+    <a class="carousel-control left" href="#myCarousel" data-slide="prev">‹</a>
+    <a class="carousel-control right" href="#myCarousel" data-slide="next">›</a>
+</div>
