@@ -19,6 +19,15 @@
     <file path="$PROJECT_DIR$/dist/scripts/82f0d627.scripts.js" changelist="19f1e76a-9f35-4b0a-9dec-6474fb0c19c2" time="1373221610747" ignored="false" />
     <file path="$PROJECT_DIR$/dist/scripts/8f092588.scripts.js" changelist="19f1e76a-9f35-4b0a-9dec-6474fb0c19c2" time="1373221695984" ignored="false" />
     <file path="/paginator.js" changelist="19f1e76a-9f35-4b0a-9dec-6474fb0c19c2" time="1373703909825" ignored="false" />
+    <file path="$PROJECT_DIR$/dist/styles/main.css" changelist="19f1e76a-9f35-4b0a-9dec-6474fb0c19c2" time="1373798920162" ignored="false" />
+    <file path="$PROJECT_DIR$/dist/components/bootstrap/docs/assets/css/bootstrap.css" changelist="19f1e76a-9f35-4b0a-9dec-6474fb0c19c2" time="1373798920536" ignored="false" />
+    <file path="$PROJECT_DIR$/dist/components/bootstrap/less/mixins.less" changelist="19f1e76a-9f35-4b0a-9dec-6474fb0c19c2" time="1373798920536" ignored="false" />
+    <file path="$PROJECT_DIR$/dist/components/bootstrap/docs/build/node_modules/hogan.js/web/stylesheets/layout.css" changelist="19f1e76a-9f35-4b0a-9dec-6474fb0c19c2" time="1373798920536" ignored="false" />
+    <file path="$PROJECT_DIR$/dist/components/bootstrap/docs/build/node_modules/hogan.js/web/stylesheets/skeleton.css" changelist="19f1e76a-9f35-4b0a-9dec-6474fb0c19c2" time="1373798920536" ignored="false" />
+    <file path="$PROJECT_DIR$/dist/components/bootstrap/docs/assets/css/bootstrap-responsive.css" changelist="19f1e76a-9f35-4b0a-9dec-6474fb0c19c2" time="1373798920536" ignored="false" />
+    <file path="$PROJECT_DIR$/dist/components/bootstrap/less/layouts.less" changelist="19f1e76a-9f35-4b0a-9dec-6474fb0c19c2" time="1373798920537" ignored="false" />
+    <file path="$PROJECT_DIR$/dist/components/bootstrap/less/type.less" changelist="19f1e76a-9f35-4b0a-9dec-6474fb0c19c2" time="1373798920537" ignored="false" />
+    <file path="$PROJECT_DIR$/dist/components/angular-scenario/angular-scenario.js" changelist="19f1e76a-9f35-4b0a-9dec-6474fb0c19c2" time="1373798920537" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -512,7 +521,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="22" width="1440" height="874" extended-state="0" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -530,7 +539,7 @@
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Debug with VisualVM" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.22883788" sideWeight="0.6710875" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.22883788" sideWeight="0.6710875" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
