@@ -4,7 +4,7 @@ angular.module('devoxx4kidsApp')
   .controller('MainCtrl', function ($scope) {
     $scope.images = [
       { src:'1371914534806.jpg', text:'Pour les enfants de 10 à  14 ans'},
-      { src:'P1060385.jpg', text:'Venez apprendre à programmez en jouant au Lego Mindstorm ou à Scratch'},
+      { src:'P1060385.jpg', text:'Venez apprendre à programmer en jouant au Lego Mindstorm ou à Scratch'},
       { src:'P1060398.jpg', text:'Dans une ambiance sympathique'},
       { src:'P1060414.jpg', text:'Accompagné par un parent'},
       { src:'P1060431.jpg', text:'C\'est gratuit'},
